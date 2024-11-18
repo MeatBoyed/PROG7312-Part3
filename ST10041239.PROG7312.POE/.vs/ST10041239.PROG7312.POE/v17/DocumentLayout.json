@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Charl\\source\\repos\\ST10041239.PROG7312.POE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83A107F1-7CA4-44B7-ABAE-7C5A66DCFD36}|MunicipalServiceApp\\MunicipalServiceApp.csproj|c:\\users\\charl\\source\\repos\\st10041239.prog7312.poe\\municipalserviceapp\\services\\requestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83A107F1-7CA4-44B7-ABAE-7C5A66DCFD36}|MunicipalServiceApp\\MunicipalServiceApp.csproj|solutionrelative:municipalserviceapp\\services\\requestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83A107F1-7CA4-44B7-ABAE-7C5A66DCFD36}|MunicipalServiceApp\\MunicipalServiceApp.csproj|C:\\Users\\Charl\\source\\repos\\ST10041239.PROG7312.POE\\municipalserviceapp\\services\\statemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83A107F1-7CA4-44B7-ABAE-7C5A66DCFD36}|MunicipalServiceApp\\MunicipalServiceApp.csproj|solutionrelative:municipalserviceapp\\services\\statemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83A107F1-7CA4-44B7-ABAE-7C5A66DCFD36}|MunicipalServiceApp\\MunicipalServiceApp.csproj|C:\\Users\\Charl\\source\\repos\\ST10041239.PROG7312.POE\\municipalserviceapp\\pages\\servicerequestpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83A107F1-7CA4-44B7-ABAE-7C5A66DCFD36}|MunicipalServiceApp\\MunicipalServiceApp.csproj|solutionrelative:municipalserviceapp\\pages\\servicerequestpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83A107F1-7CA4-44B7-ABAE-7C5A66DCFD36}|MunicipalServiceApp\\MunicipalServiceApp.csproj|c:\\users\\charl\\source\\repos\\st10041239.prog7312.poe\\municipalserviceapp\\modals\\servicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83A107F1-7CA4-44B7-ABAE-7C5A66DCFD36}|MunicipalServiceApp\\MunicipalServiceApp.csproj|solutionrelative:municipalserviceapp\\modals\\servicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServiceRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Charl\\source\\repos\\ST10041239.PROG7312.POE\\MunicipalServiceApp\\Modals\\ServiceRequest.cs",
+              "RelativeDocumentMoniker": "MunicipalServiceApp\\Modals\\ServiceRequest.cs",
+              "ToolTip": "C:\\Users\\Charl\\source\\repos\\ST10041239.PROG7312.POE\\MunicipalServiceApp\\Modals\\ServiceRequest.cs",
+              "RelativeToolTip": "MunicipalServiceApp\\Modals\\ServiceRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T21:05:17.878Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServiceRequestPage.cs",
+              "DocumentMoniker": "C:\\Users\\Charl\\source\\repos\\ST10041239.PROG7312.POE\\MunicipalServiceApp\\Pages\\ServiceRequestPage.cs",
+              "RelativeDocumentMoniker": "MunicipalServiceApp\\Pages\\ServiceRequestPage.cs",
+              "ToolTip": "C:\\Users\\Charl\\source\\repos\\ST10041239.PROG7312.POE\\MunicipalServiceApp\\Pages\\ServiceRequestPage.cs",
+              "RelativeToolTip": "MunicipalServiceApp\\Pages\\ServiceRequestPage.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAgwDoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T22:48:28.771Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StateManager.cs",
+              "DocumentMoniker": "C:\\Users\\Charl\\source\\repos\\ST10041239.PROG7312.POE\\MunicipalServiceApp\\Services\\StateManager.cs",
+              "RelativeDocumentMoniker": "MunicipalServiceApp\\Services\\StateManager.cs",
+              "ToolTip": "C:\\Users\\Charl\\source\\repos\\ST10041239.PROG7312.POE\\MunicipalServiceApp\\Services\\StateManager.cs",
+              "RelativeToolTip": "MunicipalServiceApp\\Services\\StateManager.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAowEIAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T22:41:07.08Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RequestService.cs",
+              "DocumentMoniker": "C:\\Users\\Charl\\source\\repos\\ST10041239.PROG7312.POE\\MunicipalServiceApp\\Services\\RequestService.cs",
+              "RelativeDocumentMoniker": "MunicipalServiceApp\\Services\\RequestService.cs",
+              "ToolTip": "C:\\Users\\Charl\\source\\repos\\ST10041239.PROG7312.POE\\MunicipalServiceApp\\Services\\RequestService.cs",
+              "RelativeToolTip": "MunicipalServiceApp\\Services\\RequestService.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAgwFQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T09:06:07.399Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
